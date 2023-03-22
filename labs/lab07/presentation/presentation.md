@@ -1,8 +1,8 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Лабораторная работа 1 
-subtitle: Установка опреационной системы на ВиртуалБокс
+title: Лабораторная работа 7 
+subtitle: Командная оболочка Midnight Commander
 author:
   - Пинега Б.А.
 institute:
